@@ -41,3 +41,4 @@ echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 # Install rosinstall
 sudo apt-get install python-rosinstall -y
+sudo apt-get install ros-indigo-geometry ros-indigo-rviz
